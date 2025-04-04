@@ -44,9 +44,9 @@ logging.basicConfig(level=logging.INFO,
 EMAIL_CONFIG = {
     'smtp_server': 'smtp.gmail.com',
     'smtp_port': 587,
-    'sender_email': 'm.argareksapati21@gmail.com',
-    'sender_password': 'argareksapati21',  # Gunakan App Password
-    'recipient_email': 'm.areksa21@gmail.com'
+    'sender_email': '',
+    'sender_password': '',  # Gunakan App Password
+    'recipient_email': ''
 }
 
 YOUTUBE_CONFIG = {
